@@ -5,11 +5,11 @@
 
 <h3><u>Application logic:</u></h3>
   <ul> Tasks abstract class created:<br> 
-  <ul> DragAndDrop, Code, Test tasks inherits Task.class beheviour;</ul><ul><br>
+  <ul> DragAndDrop, Code, Test tasks inherits Task.class beheviour;</ul></ul><br>
   <ul> Parent Person.class:<br>
-  <ul> Student.class and Mentor.class inherits parent class behaviour;</ul><ul><br>
+  <ul> Student.class and Mentor.class inherits parent class behaviour;</ul></ul><br>
   <ul> In SkillFactory.class main method Tasks, Students, Mentors arrays are creating;<br> 
-  <ul> In SkillFactory.class main method common logig for tasks solving is calling from Student.class;</ul><ul><p>
+  <ul> In SkillFactory.class main method common logig for tasks solving is calling from Student.class;</ul></ul><p>
 
 ```Java
 public static int[] solveTasks(Student[] studentsArray, int allTasksNeedToSolve, Task[] tasks) {
