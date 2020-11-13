@@ -1,15 +1,13 @@
-# Skill Factory
-
-<h1> Students tasks solver application</h1>
+# Skill Factory: Students tasks solver application
 
 - OOP principles were implemented (incapsulation, polimorphism, inheritance);
 - Abstractions and Interfaces also are using;<br>
 
 <h3><u>Application logic:</u></h3>
-  - Tasks abstract class created:<br> 
-    - DragAndDrop, Code, Test tasks inherits Task.class beheviour;<br>
-  - Parent Person.class:<br>
-    - Student.class and Mentor.class inherits parent class behaviour;<br>
+  <ul> Tasks abstract class created:<br> 
+  <ul> DragAndDrop, Code, Test tasks inherits Task.class beheviour;</ul><ul><br>
+  <ul> Parent Person.class:<br>
+  <ul> Student.class and Mentor.class inherits parent class behaviour;</ul><ul><br>
   <ul> In SkillFactory.class main method Tasks, Students, Mentors arrays are creating;<br> 
   <ul> In SkillFactory.class main method common logig for tasks solving is calling from Student.class;</ul><ul><p>
 
@@ -33,4 +31,4 @@ public static int[] solveTasks(Student[] studentsArray, int allTasksNeedToSolve,
 
 <h2>How to run application</h2>
 <br>
-+ <i>Application can be runned from IntelliJ IDE by pressing SHIFT+F10 or from main menu 'RUN' -> 'Run Project';</i>
+- <i>Application can be runned from IntelliJ IDE by pressing SHIFT+F10 or from main menu 'RUN' -> 'Run Project';</i>
