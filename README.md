@@ -5,7 +5,7 @@
 - OOP principles were implemented (incapsulation, polimorphism, inheritance);
 - Abstractions and Interfaces also are using;
 
-+ Application logic:
++ <h3><u>Application logic:</u></h3>
   + Tasks abstract class created: 
     + DragAndDrop, Code, Test tasks inherits Task.class beheviour;
   + Parent Person.class:
@@ -31,6 +31,6 @@
 }
 ```
 
-<h2>How to run application</>
-
-+ Application can be runned from IntelliJ IDE by pressing SHIFT+F10 or from main menu 'RUN' -> 'Run Project';
+<h2>How to run application</h2>
+<br>
++ <i>Application can be runned from IntelliJ IDE by pressing SHIFT+F10 or from main menu 'RUN' -> 'Run Project';</i>
